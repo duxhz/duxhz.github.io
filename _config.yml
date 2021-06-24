@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Highly creative and multitalented Mobile Developer with extensive experience in e-commerce, multimedia and banking.Exceptional collaborative and interpersonal skills.Dynamic team player with well-developed written and verbal communication abilities.I’ve successfully managed and coordinated mobile app projects from concept through completion.Worked closely with clients from all over the world, to create vision, conceive designs, and consistently meet deadlines and requirements.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Skills: <mark>Android</mark> <mark>Java EE</mark> <mark>VCS(GIT/SVN/ATLAS)</mark> Firebase
 
 content:
   - title: Projects # Title for the section
