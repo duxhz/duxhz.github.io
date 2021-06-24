@@ -6,10 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Duško Hristovski
+title: Android developer
+email: duxhz.hristovski@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -29,15 +28,6 @@ youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -49,7 +39,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Highly creative and multitalented Mobile Developer with extensive experience in e-commerce, multimedia and banking.Exceptional collaborative and interpersonal skills.Dynamic team player with well-developed written and verbal communication abilities.I’ve successfully managed and coordinated mobile app projects from concept through completion.Worked closely with clients from all over the world, to create vision, conceive designs, and consistently meet deadlines and requirements.
-  Skills: <mark>Android</mark> <mark>Java EE</mark> <mark>VCS(GIT/SVN/ATLAS)</mark> Firebase
+  Main skills: <mark>Android</mark> <mark>Java EE</mark> <mark>VCS(GIT/SVN/ATLAS)</mark> <mark>Firebase</mark>
 
 content:
   - title: Projects # Title for the section
