@@ -40,39 +40,45 @@ about_title: Personal
 about_profile_image: 00100sPORTRAIT_00100_BURST20190513153502584_COVER__01.jpg
 about_content: | # this will include new lines to allow paragraphs
   Highly creative and multitalented Mobile Developer with extensive experience in e-commerce, multimedia and banking.Exceptional collaborative and interpersonal skills.Dynamic team player with well-developed written and verbal communication abilities.I’ve successfully managed and coordinated mobile app projects from concept through completion.Worked closely with clients from all over the world, to create vision, conceive designs, and consistently meet deadlines and requirements.
-  Main skills: <mark>Android</mark> <mark>Java EE</mark> <mark>VCS(GIT/SVN/ATLAS)</mark> <mark>Firebase</mark> <mark>JIRA</mark>
+  Main skills: <mark>Android</mark> <mark>Java</mark> <mark>VCS(GIT/SVN/ATLAS)</mark> <mark>Firebase</mark> <mark>JIRA</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: RentOut
+        # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+          #- title:  sproogen/modern-resume-theme
+           # icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          A powerful solution for renting all kinds of products
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          Started the project as a group of three programmers(backend, iOS dev and Android dev). The app was developed for users in Belgium, the Netherlands and France. Developed for a client from Belgium, the app is used to rent all types of products, with a big set of payment options and three user modes(Tenant, Owner and Admin). The wide range of features available for mobile  devices(Android and iOS) include:
+- Product renting
+- Payment options(Visa, Mastercard, Maestro, PayPal, PaysafeCard)
+- Electronical payment with the market leaders of Belgium(Bancontact and Payconiq)
+- Account managment
+- Tenant, Owner and Admin modes
+- Customer support
+- Instant messaging
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: DigiEd
-        link: digied.si
+        link: http://www.digied.si/index.html%3Fp=797.html
         # link_text: boringcompany.com
         sub_title: Android developer
         caption: July 2020 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products
+          Keep learning...
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
